@@ -28,18 +28,17 @@ Hi! 👋 I’m **Zenith Kandel**, a 16-year-old, self-taught web developer and d
 
 ## 🏆 Favorite Projects
 
+- [Kushma Art Project](https://github.com/zenith-001/kushma-art-project)
+- [Rageni Resort](https://github.com/zenith-001/rageni-resort)
 - [STREAMFLIX](https://github.com/zenith-001/STREAMFLIX)
-- [KUSHMA ART PROJECT](https://github.com/zenith-001/KushmaArtProject)
-- [Rageni Resort](https://github.com/zenith-001/RageniResort)
 
-*Explore more on my [GitHub profile](https://github.com/zenith-001).*
 
 ---
 
 ## 📫 Connect with Me
 
 - 🌐 Website: [zenithkandel.kushmaartproject.com.np](https://zenithkandel.kushmaartproject.com.np)
-- 💼 LinkedIn: [zenith-kandel-8a7781320](https://www.linkedin.com/in/zenith-kandel-8a7781320/)
+- 💼 LinkedIn: [Zenith Kandel](https://www.linkedin.com/in/zenith-kandel-8a7781320/)
 - 📷 Instagram: [@__zenith__01](https://www.instagram.com/__zenith__01/)
 - 📱 Phone: 9806176120
 
