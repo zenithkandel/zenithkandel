@@ -49,3 +49,4 @@ Hi! 👋 I’m **Zenith Kandel**, a 16-year-old, self-taught web developer and d
 I'm always on the lookout for internship opportunities and collaborative projects where I can learn, contribute, and grow. If you have something in mind, feel free to reach out!
 
 ---
+
