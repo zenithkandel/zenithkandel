@@ -14,13 +14,7 @@ Hi! I’m **Zenith Kandel**, a 16-year-old, self-taught web developer and design
 
   `HTML` | `CSS` | `JavaScript` | `Node.js` | `PHP` | `MySQL` | `MongoDB`
 - 🎯 Always eager to learn and take on new challenges
-
-
-
 ---
-
-
-
 ## 💡 Interests
 
 - UI/UX Design
