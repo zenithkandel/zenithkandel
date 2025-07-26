@@ -3,6 +3,7 @@
 Hi! I’m **Zenith Kandel**, a 16-year-old, self-taught web developer and designer from Nepal, currently studying in Grade 11. I love building creative and functional websites, learning new technologies, and collaborating on exciting projects.
 
 ---
+
 ## 🚀 About Me
 
 
