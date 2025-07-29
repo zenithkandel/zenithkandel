@@ -42,7 +42,7 @@ Hi! I’m **Zenith Kandel**, a 16-year-old, self-taught web developer and design
 
 - 🌐 Website: [zenithkandel.kushmaartproject.com.np](https://zenithkandel.kushmaartproject.com.np)
 - 💼 LinkedIn: [Zenith Kandel](https://www.linkedin.com/in/zenith-kandel-8a7781320/)
-- 📷 Instagram: [@__zenith__01](https://www.instagram.com/__zenith__01/)
+- 📷 Instagram: [@kandel.zenith](https://www.instagram.com/kandel.zenith/)
 - 📱 Phone: 9806176120
 
 ---
