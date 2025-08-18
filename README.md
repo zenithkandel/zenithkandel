@@ -3,6 +3,11 @@
 Hi! I’m **Zenith Kandel**, a 16-year-old, self-taught web developer and designer from Nepal, currently studying in Grade 11. I love building creative and functional websites, learning new technologies, and collaborating on exciting projects.
 
 ---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zenithkandel&show_icons=true&locale=en&layout=compact" alt="zenithkandel" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zenithkandel&show_icons=true&locale=en" alt="zenithkandel" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zenithkandel&" alt="zenithkandel" /></p>
 
 
 ## 🚀 About Me
