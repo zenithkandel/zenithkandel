@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=zenithkandel&theme=tokyonight" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zenithkandel&theme=tokyonight" alt="Zenith's Streak Stats"/>
 </p>
 
 ---
