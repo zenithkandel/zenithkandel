@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=zenithkandel&theme=tokyonight)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com?user=zenithkandel&theme=tokyonight" alt="Top Languages" height="150"/>
 </p>
 
 ---
