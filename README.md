@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zenithkandel&theme=tokyonight" alt="Zenith's Streak Stats"/>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=zenithkandel&theme=tokyonight)](https://git.io/streak-stats)
 </p>
 
 ---
