@@ -59,6 +59,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zenithkandel&theme=tokyonight" alt="Zenith's Streak Stats"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zenithkandel&bg_color=000000&color=ffffff&line=00bfff&point=00bfff&area=true&hide_border=true" alt="zenithkandel's Activity Graph" />
 </p>
 
 ---
