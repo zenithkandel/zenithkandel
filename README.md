@@ -10,7 +10,8 @@
 - 💻 Self-taught web developer & UI/UX enthusiast  
 - 🌱 Currently learning **Frameworks, Node.js, Express, React**  
 - 👨‍💻 All of my projects are available at [zenithkandel.com.np](https://zenithkandel.com.np)  
-- 📫 Reach me at **kandelze123@gmail.com**  
+- 📫 Reach me at **kandelze123@gmail.com**
+
 - 📄 Know more about my experiences on [zenithkandel.com.np](https://zenithkandel.com.np)  
 
 ---
