@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zenith Kandel</h1>
+<h1 align="center">Hi, I'm Zenith Kandel</h1>
 <h3 align="center">A 16-year-old, self-taught web developer & designer from Nepal 🇳🇵</h3>
 
 ---
