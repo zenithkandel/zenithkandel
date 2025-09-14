@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-- 🌍 Based in Nepal  
+- 🇳🇵 Based in Nepal  
 - 🎓 Grade 11 student  
 - 💻 Self-taught web developer & UI/UX enthusiast  
 - 🌱 Currently learning **Frameworks, Node.js, Express, React**  
