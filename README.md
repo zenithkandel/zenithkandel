@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Zenith Kandel</h1>
+<h1 align="center">Hi, I'm Zenith Kandel ✨</h1>
+
 <h3 align="center">A 16-year-old, self-taught web developer & designer from Nepal 🇳🇵</h3>
 
 ---
-
 
 ## 🚀 About Me
 
@@ -11,8 +11,7 @@
 - 💻 Self-taught web developer & UI/UX enthusiast  
 - 🌱 Currently learning **Frameworks, Node.js, Express, React**  
 - 👨‍💻 All of my projects are available at [zenithkandel.com.np](https://zenithkandel.com.np)  
-- 📫 Reach me at **kandelze123@gmail.com**
-
+- 📫 Reach me at **kandelze123@gmail.com**  
 - 📄 Know more about my experiences on [zenithkandel.com.np](https://zenithkandel.com.np)  
 
 ---
@@ -61,7 +60,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zenithkandel&theme=tokyonight" alt="Zenith's Streak Stats"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zenithkandel&bg_color=000000&color=ffffff&line=00bfff&point=00bfff&area=true&hide_border=true" alt="zenithkandel's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zenithkandel&theme=tokyo-night" alt="zenithkandel's Activity Graph"/>
 </p>
 
 ---
@@ -69,17 +68,17 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/zenith-kandel-8a7781320/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Zenith%20Kandel-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/zenith-kandel-a5a6a52ba/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/kandel.zenith" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-@kandel.zenith-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://www.facebook.com/kandel.zenith">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/kandel.zenith/" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-@kandel.zenith-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/kandel.zenith/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:kandelze123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kandelze123%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -87,5 +86,5 @@
 
 ## 🙌 Let's Collaborate
 
-I'm always on the lookout for **internship opportunities** and **collaborative projects** where I can learn, contribute, and grow.  
+I'm always on the lookout for internship opportunities and collaborative projects where I can learn, contribute, and grow.  
 If you have something in mind, feel free to reach out 🚀
