@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zenithkandel&theme=tokyonight" alt="Zenith's Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=zenithkandel&theme=tokyonight" alt="Zenith's Streak Stats"/>
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zenithkandel&theme=tokyo-night" alt="zenithkandel's Activity Graph"/>
 </p>
