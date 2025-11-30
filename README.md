@@ -54,8 +54,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zenithkandel&show_icons=true&locale=en&theme=tokyonight" alt="Zenith's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zenithkandel&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zenithkandel&show_icons=true&locale=en&theme=tokyonight" alt="Zenith's GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=zenithkandel&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
 </p>
 
 <p align="center">
