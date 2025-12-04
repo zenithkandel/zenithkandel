@@ -2,7 +2,7 @@
   <h1>Zenith Kandel</h1>
   <h3>Web Developer & UI/UX Designer</h3>
   <p>16-year-old self-taught developer from Nepal 🇳🇵</p>
-  
+
   <a href="https://zenithkandel.com.np">Portfolio</a> • 
   <a href="mailto:kandelze123@gmail.com">Email</a> • 
   <a href="https://www.linkedin.com/in/zenith-kandel-a5a6a52ba/">LinkedIn</a>
