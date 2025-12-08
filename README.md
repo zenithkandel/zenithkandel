@@ -8,6 +8,7 @@
   <a href="https://www.linkedin.com/in/zenith-kandel-a5a6a52ba/">LinkedIn</a>
 </div>
 <br/>
+
 ## About
 
 I'm a Grade 11 student and a passionate self-taught developer. I love building clean, functional websites and exploring new technologies. Currently, I'm focusing on the **MERN stack** (MongoDB, Express, React, Node.js) and refining my design skills.
