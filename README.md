@@ -46,8 +46,21 @@ I'm a Grade 11 student and a passionate self-taught developer. I love building c
         <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=zenithkandel&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
-  </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zenithkandel&theme=dark" alt="Streak Stats" />
+  </table><picture>
+  <source
+    srcset="https://streak-stats.demolab.com?user=zenithkandel&theme=tokyonight&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com?user=zenithkandel&theme=default&hide_border=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=zenithkandel&hide_border=true"
+    alt="GitHub Streak Stats"
+  />
+</picture>
+
   <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zenithkandel&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
