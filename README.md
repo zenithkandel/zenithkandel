@@ -47,8 +47,8 @@ I'm a Grade 11 student and a passionate self-taught developer. I love building c
       </td>
     </tr>
   </table>
-  <img src="https://streak-stats.demolab.com/?user=zenithkandel&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-  <br/><br/>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zenithkandel&theme=dark)](https://git.io/streak-stats)
+<br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zenithkandel&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
