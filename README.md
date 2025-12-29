@@ -47,8 +47,9 @@ Currently focused on the MERN stack
 <div align="center">
 <img 
   src="https://github-readme-streak-stats.herokuapp.com/?user=zenithkandel&theme=dark" 
-  width="95%" 
+  width="95%" alt="Streak Stats"
 />
+  <br>
 <img 
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zenithkandel&theme=github_dark" 
   width="95%" 
