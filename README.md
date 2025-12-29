@@ -44,19 +44,52 @@ Currently focused on the MERN stack
 ---
 
 ## GitHub Analytics
-
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zenithkandel&theme=github_dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenithkandel&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zenithkandel&theme=github_dark" 
+  width="95%" 
+/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=zenithkandel&theme=github_dark&hide_border=true" width="65%" />
+<table>
+  <tr>
+    <td>
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zenithkandel&theme=github_dark" 
+        width="100%" 
+      />
+    </td>
+    <td>
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zenithkandel&theme=github_dark" 
+        width="100%" 
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zenithkandel&theme=github_dark" 
+        width="100%" 
+      />
+    </td>
+    <td>
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zenithkandel&theme=github_dark&utcOffset=5.75" 
+        width="100%" 
+      />
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zenithkandel&theme=github-dark&hide_border=true" />
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=zenithkandel&theme=github-dark&hide_border=true" 
+  width="95%" 
+/>
 
 </div>
 
