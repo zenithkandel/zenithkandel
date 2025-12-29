@@ -45,7 +45,8 @@ Currently focusing on the **MERN stack** (MongoDB, Express, React, Node.js) whil
 ## 📊 GitHub Analytics
 
 <div align="center">
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=zenithkandel&show_icons=true&theme=tokyonight&hide_border=true&v=1)
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zenithkandel&show_icons=true&theme=tokyonight&hide_border=true&v=1" width="48%" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=zenithkandel&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 <br/><br/>
