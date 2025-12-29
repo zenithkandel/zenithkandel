@@ -46,7 +46,7 @@ Currently focusing on the **MERN stack** (MongoDB, Express, React, Node.js) whil
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zenithkandel&show_icons=true&theme=tokyonight&hide_border=true&v=1" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zenithkandel&theme=github_dark" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=zenithkandel&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 <br/><br/>
@@ -55,7 +55,8 @@ Currently focusing on the **MERN stack** (MongoDB, Express, React, Node.js) whil
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zenithkandel&theme=tokyo-night&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zenithkandel&theme=github-dark&hide_border=true" />
 
 </div>
 
