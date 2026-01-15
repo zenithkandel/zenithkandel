@@ -14,6 +14,7 @@
 
 ## About Me
 
+
 I'm a Grade 11 student and a passionate self-taught developer who enjoys building  
 clean, functional, and visually pleasing web experiences.
 
