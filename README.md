@@ -6,7 +6,7 @@
 
 <a href="https://zenithkandel.com.np">Portfolio</a> ·
 <a href="mailto:kandelze123@gmail.com">Email</a> ·
-<a href="https://www.linkedin.com/in/zenith-kandel-a5a6a52ba/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/zenithkandel/">LinkedIn</a>
 
 </div>
 
