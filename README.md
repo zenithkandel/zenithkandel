@@ -119,20 +119,4 @@ Open to internships and collaboration opportunities
 
 <a href="https://www.instagram.com/kandel.zenith/">Instagram</a> ·
 <a href="https://www.facebook.com/kandel.zenith">Facebook</a>
-
 </div>
-"Backdated commit for March 1, 2026" 
-Backdated commit for Feb 18, 2026 
-Backdated commit for Feb 10, 2026 
-Backdated commit for Feb 12, 2026 
-Backdated commit for Feb 13, 2026 
-Backdated commit for Feb 13, 2026 
-
-Backdated commit for 2026-01-25
-Backdated commit for 2026-01-20
-Backdated commit for 2026-01-23
-Backdated commit for 2026-01-30
-Backdated commit for 2026-01-31
-Backdated commit for 2026-02-01
-Backdated commit for 2026-02-06
-Backdated commit for 2025-12-03
