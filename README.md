@@ -1,115 +1,54 @@
 <div align="center">
 
-# Zenith Kandel  
-### Web Developer & UI/UX Designer  
-16-year-old self-taught developer from Nepal
+# Hi, I'm Zenith Kandel.
 
-<a href="https://zenithkandel.com.np">Portfolio</a> ·
-<a href="mailto:kandelze123@gmail.com">Email</a> ·
-<a href="https://www.linkedin.com/in/zenithkandel/">LinkedIn</a>
+**Web Developer & UI/UX Designer** · Nepal  
+I build clean, fast, and functional web experiences.
 
-</div>
-
----
-
-## About Me
-
-I'm a Grade 11 student and a passionate self-taught developer who enjoys building  
-clean, functional, and visually pleasing web experiences.
-
-Currently focused on the MERN stack  
-(MongoDB, Express, React, Node.js) while continuously refining my UI/UX design skills.
----
-
-## Tech Stack
-
-<div align="left">
-
-<strong>Frontend</strong><br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
-
-<br/>
-
-<strong>Backend and Databases</strong><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,php,mysql,mongodb&theme=dark" />
-
-<br/>
-
-<strong>Tools and Design</strong><br/>
-<img src="https://skillicons.dev/icons?i=git,python,photoshop&theme=dark" />
+<a href="https://zenithkandel.com.np">Portfolio</a> · <a href="mailto:kandelze123@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/zenithkandel/">LinkedIn</a> · <a href="https://github.com/zenithkandel">GitHub</a>
 
 </div>
 
 ---
 
+### About
 
-## GitHub Analytics
-<div align="center">
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=zenithkandel&theme=dark" 
-  width="95%" alt="Streak Stats"
-/>
+I'm a Grade 11 student and a self-taught web developer/designer from Nepal. I enjoy frontend craft, quick prototyping, and turning ideas into simple UIs. Currently exploring Node.js, PHP, MongoDB, and building portfolio projects while staying open to internships and collaborations.
 
-  <br>
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zenithkandel&theme=github_dark" 
-  width="95%" 
-/>
-
-<br/><br/>
-
-<table>
-  <tr>
-    <td>
-      <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zenithkandel&theme=github_dark" 
-        width="100%" 
-      />
-    </td>
-    <td>
-      <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zenithkandel&theme=github_dark" 
-        width="100%" 
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zenithkandel&theme=github_dark" 
-        width="100%" 
-      />
-    </td>
-    <td>
-      <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zenithkandel&theme=github_dark&utcOffset=5.75" 
-        width="100%" 
-      />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=zenithkandel&theme=github-dark&hide_border=true" 
-  width="95%" 
-/>
-
-</div>
+**Frontend** &nbsp; <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" height="20" />  
+**Backend** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=nodejs,php,mysql,mongodb&theme=dark" height="20" />  
+**Tools** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=git,python,photoshop&theme=dark" height="20" />
 
 ---
 
-## Projects
+<img src="https://zenithkandel.com.np/streaker/stats-graphics/api/streak.php" width="100%" />
 
-- **Kushma Art Project**  
-  https://github.com/zenithkandel/kushma-art-project
+<table><tr>
+<td width="50%"><img src="https://zenithkandel.com.np/streaker/stats-graphics/api/languages.php" width="100%" /></td>
+<td width="50%"><img src="https://zenithkandel.com.np/streaker/stats-graphics/api/stats.php" width="100%" /></td>
+</tr></table>
 
-- **Rageni Resort**  
-  https://github.com/zenithkandel/rageni-resort
+<img src="https://zenithkandel.com.np/streaker/stats-graphics/api/activity-graph.php" width="100%" />
 
-- **STREAMFLIX**  
-  https://github.com/zenithkandel/STREAMFLIX
+---
+
+### Selected Work
+
+**[Kushma Art Project](https://kushmaartproject.com.np/)** — Showcase site for a cultural art and heritage initiative &nbsp; [Code](https://github.com/zenithkandel/kushma-art-project)
+
+**[LIFELINE](https://zenithkandel.com.np/lifeline)** — HTML/JS utility project &nbsp; [Code](https://github.com/zenithkandel/gss-home)
+
+**[Rageni Agro Resort](https://github.com/zenithkandel)** — Single-page landing for a resort in Nepal
+
+**[STREAMFLIX](https://englishlab.rageniresort.com.np/)** — Full-stack PHP streaming interface &nbsp; [Code](https://github.com/zenithkandel/STREAMFLIX)
+
+**[Rabbit](https://zenithkandel.com.np/rabbit)** — Notification infrastructure UI &nbsp; [Code](https://github.com/zenithkandel/rabbit)
+
+**[Agropan](https://zenithkandel.com.np/agropan)** — Hackathon project for agricultural tooling &nbsp; [Code](https://github.com/esp-sakshyam/Renhackathon-spark)
+
+**[Markdown Editor](https://zenithkandel.com.np/md-editor)** — Two-way live markdown editor &nbsp; [Code](https://github.com/zenithkandel/md-editor)
+
+**[File Transfer](https://zenithkandel.com.np/photo-transfer/)** — Simple browser-based file sharing tool &nbsp; [Code](https://github.com/zenithkandel/photo-transfer)
 
 ---
 
@@ -117,6 +56,6 @@ Currently focused on the MERN stack
 
 Open to internships and collaboration opportunities
 
-<a href="https://www.instagram.com/kandel.zenith/">Instagram</a> ·
-<a href="https://www.facebook.com/kandel.zenith">Facebook</a>
+<a href="https://wa.me/9779806176120">WhatsApp</a> · <a href="https://www.instagram.com/kandel.zenith/">Instagram</a> · <a href="https://www.facebook.com/kandel.zenith">Facebook</a>
+
 </div>
