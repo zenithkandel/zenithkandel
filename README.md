@@ -21,7 +21,7 @@ I'm a Grade 11 student and a self-taught web developer/designer from Nepal. I en
 
 ---
 
-<img src="https://zenithkandel.com.np/streaker/stats-graphics/api/streak.php?c=1" width="100%" />
+<img src="https://zenithkandel.com.np/streaker/stats-graphics/api/streak.php?c=0" width="100%" />
 
 <table align=center><tr>
 <td width="50%"><img src="https://zenithkandel.com.np/streaker/stats-graphics/api/languages.php?c=1" width="100%" /></td>
